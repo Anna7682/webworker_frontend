@@ -1,9 +1,8 @@
-import API from './API';
-import Controls from './controls';
-import Page from './page';
-import '../../service.worker';
-import '../css/style.css';
+import Widget from './engine/widget';
 
-const app = new Controls(new Page(), new API());
-app.init();
-app.renderArticle();
+export default function app() {
+  const widget = new Widget();
+  widget.init();
+}
+
+app();
