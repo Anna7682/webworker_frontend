@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gne6bps4pamw6box?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-workers)
+[![Build status](https://ci.appveyor.com/api/projects/status/km0r05guv13b30cs/branch/main?svg=true)](https://ci.appveyor.com/project/Anna7682/webworker-frontend/branch/main)
 
 WEB VERSION: https://Anna7682.github.io/webworker_frontend/
 
