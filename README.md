@@ -1,4 +1,4 @@
-https://ci.appveyor.com/api/projects/status/km0r05guv13b30cs/branch/main?svg=true
+[![Build status](https://ci.appveyor.com/api/projects/status/km0r05guv13b30cs?svg=true)](https://ci.appveyor.com/project/Anna7682/webworker-frontend)
 
 WEB VERSION: https://anna7682.github.io/webworker_frontend/
 
